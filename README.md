@@ -22,6 +22,7 @@ Following these steps we follow on user's mobile :
 ####   <p><a href="#demos" >Demo</a></p>
 ####   <p><a href="#stack" >Tech Stack</a></p>
 ####   <p><a href="#features" >Features</a></p>
+####   <p><a href="#details" >Mentor/Team Details</a></p>
 
 
 ## <h2 id="looks" >kavach_2k23 UseFull Content</h2>
@@ -44,9 +45,8 @@ Recommended
 ###### Our Report, to submission
 
 Recommended
-- <a href="https://docs.google.com/presentation/d/1lbGywqlLmYMVurKft14jTzs6soinrc-f3Bw7dYUwCts/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> Kavach_2k23 </a>
+- <a href="https://drive.google.com/file/d/1ASkf-BziR3r7hzVT4ytt1-GIqq24wXEa/view?usp=sharing" target="_blank" rel="noopener noreferrer"> Kavach_2k23 </a>
 
-<p text-align = 'right'> <a href="https://drive.google.com/drive/folders/1_eof4dxojFC8BrhWeWroup478AD9lLh2?usp=share_link" target="_blank" rel="noopener noreferrer"> More Info</a> </p>
 
 
 ##### App How Process
@@ -121,5 +121,24 @@ Recommended
 2. Use 3rd party machine learning model
 3. Call can detect in offline mode, upto cache is not full.
 
+
+<a href="#kavach_2k23">Go Home </a>
+
+
+## <h2 id="details">Mentor/Team Details</h2>
+
+#### Mentors:
+
+**Academic :** Dr. Vinesh Kumar Jain
+**Industry :** Ashwarya Jhanwar
+
+#### Team:
+
+1. Manoj Vaishnav
+2. Aditi Agarwal
+3. Kushagra Rathore
+4. Nikhil Gurjar
+5. Prince Vashishth
+6. Pawan Mishra
 
 <a href="#kavach_2k23">Go Home </a>
