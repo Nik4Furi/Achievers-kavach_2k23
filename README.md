@@ -1,4 +1,4 @@
-# <h1 id="kavach_2k23"> kavach_2k23 <span>   <img src="https://user-images.githubusercontent.com/91304976/233552762-c6d5f9be-bd0b-419b-ba96-c34e1a259d59.png" width="400"   alt="kavach_2k23_home"/> </span></h1>
+# <h1 id="kavach_2k23"> kavach_2k23 </h1>
 
 ### We are providing the solution of problem <a href="https://kavach.mic.gov.in/kavach2023PS" target="_blank" rel="noopener noreferrer">Kavach-2k23 k-011 (Citizen Safety App) </a>
 
@@ -67,18 +67,15 @@ Recommended
 ##### Screens Of Our APP
 
 <p text-align=left>
-  <img src="https://user-images.githubusercontent.com/91304976/233552813-716515f5-ff05-4a3b-bbce-646c1f40edc5.png" width="500"   alt="kavach_2k23_home"/>
-  <img src="https://user-images.githubusercontent.com/91304976/233556025-547b6280-4b6c-4cdf-9db1-ad715d05aadc.png" width="500"   alt="kavach_2k23_home"/>
-      
-</p> 
-<p text-align=left>
-  <img src="https://user-images.githubusercontent.com/91304976/233556064-ce83df0b-9e4f-4f8b-ab5c-86ab52e2313b.png" width="500"   alt="kavach_2k23_home"/>
-  <img src="https://user-images.githubusercontent.com/91304976/233556564-c472ff84-9b02-480b-b6e7-47c6104c42e1.png" width="500"   alt="kavach_2k23_home"/>
-      
-</p> 
-<p text-align=left>
   
-  <img src="https://user-images.githubusercontent.com/91304976/233556005-e2ccdaa0-79d2-4bf5-abfd-fcf702f16758.png" width="500"   alt="kavach_2k23_home"/>
+  <img src="https://user-images.githubusercontent.com/91304976/233556025-547b6280-4b6c-4cdf-9db1-ad715d05aadc.png" width="200"   alt="kavach_2k23_home"/>
+      
+  <img src="https://user-images.githubusercontent.com/91304976/233556064-ce83df0b-9e4f-4f8b-ab5c-86ab52e2313b.png" width="200"   alt="kavach_2k23_home"/>
+  
+  <img src="https://user-images.githubusercontent.com/91304976/233556564-c472ff84-9b02-480b-b6e7-47c6104c42e1.png" width="200"   alt="kavach_2k23_home"/>
+      
+  
+  <img src="https://user-images.githubusercontent.com/91304976/233556005-e2ccdaa0-79d2-4bf5-abfd-fcf702f16758.png" width="200"   alt="kavach_2k23_home"/>
       
 </p>
 
