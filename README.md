@@ -28,17 +28,26 @@ Following these steps we follow on user's mobile :
 
 ###### Drives links of our research analysis 
 
-- <a href="https://drive.google.com/drive/folders/1hvSlrZeTWvH0sJ06_O5IX5xB8eiL4K1-?usp=share_link" target="_blank" rel="noopener noreferrer">Our Research or Surveys ,whoose use we as references </a>
-
 Recommended
 - <a href="https://docs.google.com/presentation/d/1cNrKk1OtNkbKfCnZ6S7xBdCCub906ilJ/edit?usp=sharing&ouid=101225381731352842024&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer"> Analysis Of Surveys </a>
 
-###### We have all these ppts, *Plz choose any best ppts*
+<p text-align='right'> <a href="https://drive.google.com/drive/folders/1hvSlrZeTWvH0sJ06_O5IX5xB8eiL4K1-?usp=share_link" target="_blank" rel="noopener noreferrer">More Info </a> </p>
 
-- <a href="https://drive.google.com/drive/folders/1_eof4dxojFC8BrhWeWroup478AD9lLh2?usp=share_link" target="_blank" rel="noopener noreferrer">Plz reviewing any of these PPTs </a>
+
+
+###### Our PPTs, to submission 
 
 Recommended
 - <a href="https://docs.google.com/presentation/d/1lbGywqlLmYMVurKft14jTzs6soinrc-f3Bw7dYUwCts/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> Kavach_2k23 </a>
+
+
+###### Our Report, to submission
+
+Recommended
+- <a href="https://docs.google.com/presentation/d/1lbGywqlLmYMVurKft14jTzs6soinrc-f3Bw7dYUwCts/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> Kavach_2k23 </a>
+
+<p text-align = 'right'> <a href="https://drive.google.com/drive/folders/1_eof4dxojFC8BrhWeWroup478AD9lLh2?usp=share_link" target="_blank" rel="noopener noreferrer"> More Info</a> </p>
+
 
 ##### App How Process
 <p text-align=left>
@@ -70,10 +79,11 @@ Recommended
   
   <img src="https://user-images.githubusercontent.com/91304976/233556025-547b6280-4b6c-4cdf-9db1-ad715d05aadc.png" width="200"   alt="kavach_2k23_home"/>
       
-  <img src="https://user-images.githubusercontent.com/91304976/233556064-ce83df0b-9e4f-4f8b-ab5c-86ab52e2313b.png" width="200"   alt="kavach_2k23_home"/>
+  <img src="https://user-images.githubusercontent.com/91304976/233614814-4184c916-07be-420b-a40a-8fa674533882.png" width="200"   alt="kavach_2k23_home"/>
   
   <img src="https://user-images.githubusercontent.com/91304976/233556564-c472ff84-9b02-480b-b6e7-47c6104c42e1.png" width="200"   alt="kavach_2k23_home"/>
-      
+    
+
   
   <img src="https://user-images.githubusercontent.com/91304976/233556005-e2ccdaa0-79d2-4bf5-abfd-fcf702f16758.png" width="200"   alt="kavach_2k23_home"/>
       
@@ -86,7 +96,9 @@ Recommended
 
 
 **Client:** React, Bootstrap 
+
 **Server:** NodeJS, ExpressJS, MongoDB or MySQL
+
 **Machine Learning Model:** Logistic Regression(payments), Decision Trees(sms, calls), Neural Networks etc...
 
 <a href="#kavach_2k23">Go Home </a>
@@ -94,7 +106,7 @@ Recommended
 
 ## <h2 id="features">Features Analysis</h2>
 
-#### Novalty:
+#### Novelty:
 
 1. Multi-Functional System
 2. Real Time Detection
